@@ -6,7 +6,8 @@
 ## Introduction
 Bin There Done That is a mobile app created for my CS855 final project.  It helps manage two grain bins by taking values such as capacity and number of bushels, automatically calculating the tonnes based on the grain selected, storing the data internally, and providing a visual indicator for how full the bin is.
 
-![Logo](Resources/demo1.gif =250x250) ![Logo](Resources/demo2.gif)
+
+<img src="Resources/demo1.gif" alt="The first screenshot of a working bin for bin1" height="550" width="325" /> <img src="Resources/demo2.gif" alt="The second screenshot of a working bin for bin2" height="550" width="325" />
 
 
 ## Contents
@@ -55,7 +56,8 @@ Please note that while there is a web preview, not all the features used in this
 ### Home Screen
 The home screen will load by default.  It contains a switch you can tap on to change between light and dark colour theme and two buttons to navigate to two storage bins.
 
-![Gif of toggling colour theme](Resources/homescreengif.gif)
+<img src="Resources/homescreengif.gif" alt="Gif showing how to alternate colour themes" height="550" width="325" />
+
 
 ### Bin Screen
 The bin screen loads one of two bins, depending on which button you pressed in the previous screen.
@@ -69,23 +71,24 @@ To update a numeric field, tap on it and enter a number.  Due to the regular exp
 
 Updating the numeric fields will automatically update the bin indicator above.  Updating the bushels will update the tonnes based on what type of grain is selected from the list.
 
-![Gif of updating the grain bin numbers](Resources/binscreennumeric.gif)
+<img src="Resources/binscreennumeric.gif" alt="Gif showing how ot change the numeric fields" height="550" width="325" />
 
 #### Updating the grain type
 To select a grain to store in the bin, tap on the dropdown and pick from the list.  Since different grains have different sizes of bushels, the type of grain selected will change the tonnes (except wheat and duram, because they are the same size).
 
-![Gif of selecting dropdown options](Resources/grainselectgif.gif)
+<img src="Resources/grainselectgif.gif" alt="Gif showing how to select a type of grain" height="550" width="325" />
+
 
 #### Saving values to local storage
 
 To save the entered values to local storage, tap the save bin values icon.  If the bin has more bushels than the capacity allows, you will get an error.
 
-![Gif of getting error when saving](Resources/capacityerrorgif.gif)
+<img src="Resources/capacityerrorgif.gif" alt="Gif showing the bin capacity error message" height="550" width="325" />
 
 
 If the values work, you will get a confirmation screen.  Select confirm, and your results will be saved to local storage, and the bin will keep what you entered on future visits.
 
-![Gif of confirmed save](Resources/confirmsavegif.gif)
+<img src="Resources/confirmsavegif.gif" alt="Gif showing the confirm save alerts" height="550" width="325" />
 
 
 ## Known bugs
