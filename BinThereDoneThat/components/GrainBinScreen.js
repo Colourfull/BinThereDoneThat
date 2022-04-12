@@ -480,6 +480,7 @@ function GrainBinScreen({ navigation, route }) {
 }
 
 const styles = StyleSheet.create({
+  // overall container of the bin function
   container: {
     flex: 1,
     justifyContent: 'center',
@@ -487,12 +488,14 @@ const styles = StyleSheet.create({
     backgroundColor: 'darkgrey',
     padding: 8,
   },
+  // header text
   header: {
     margin: 24,
     fontSize: 18,
     fontWeight: 'bold',
     textAlign: 'center',
   },
+  // the space for the bin indicator, contains the fill indicator
   bin: {
     flex: 1,
     marginLeft: '15%',
@@ -502,6 +505,7 @@ const styles = StyleSheet.create({
     height: '100%',
     width: '100%',
   },
+  // the green box that grows or shrinks based on the bushels and capacity
   binfilled: {
     height: '70%',
     width: '100%',
@@ -512,13 +516,16 @@ const styles = StyleSheet.create({
     height: '25%',
     width: '100%',
   },
+  // each row in the bin table
   tableRow: {
     flexDirection: 'row',
   },
+  // each cell in the bin table
   tableCell: {
     flex: 1,
     borderWidth: 2,
   },
+  // the button to save the bin table data
   editButton: {
     justifyContent: 'center',
     textAlign: 'center',
@@ -529,6 +536,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     textAlign: 'center',
   },
+  // expands the fields in the table to take up the whole space
   field: {
     flex: 1,
     width: '100%',
