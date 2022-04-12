@@ -5,6 +5,9 @@
  * CS855 Final Project
  * version: 1
  * last-modified: April-11-2022
+ *
+ * The colour change and navigation methods are based on examples provided by Dr. T. in class.
+ *
  ****/
 import React, { useState } from 'react';
 import {
