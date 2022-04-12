@@ -30,6 +30,8 @@ Bin There Done That is a mobile app created for my CS855 final project.  It help
 ### Install to your Android device
 A current version of the program can be run by downloading and running the apk on your android device.  If the download doesn't automatically prompt you to install the apk, find it in your downloads folder and install it from there.
 
+> [Click here or view the releases tab on the right to download the apk](https://github.com/Colourfull/BinThereDoneThat/releases/download/Release/BinThereDoneThat.apk)
+
 If this is your first time downloading and installing an apk outside of the Play Store, you may be prompted several times for security reasons, such as downloading files from Chrome that may affect your device and running unknown programs.  You will need to approve all these for the app to run.
 
 This program was designed for Android devices.  It does not have an Apple release.
@@ -43,7 +45,7 @@ If you haven't already, you will need to install the Expo Go app from the Play S
 Click the following link to be taken to the Expo Snack for this project.
 
 
-https://snack.expo.dev/@blewedev/855project
+> [https://snack.expo.dev/@blewedev/855project](https://snack.expo.dev/@blewedev/855project)
 
 Once there, click the "My Device" tab on the preview.  Scan the QR code with your phone, and it will automatically launch the app.
 
