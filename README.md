@@ -51,7 +51,6 @@ Once there, click the "My Device" tab on the preview.  Scan the QR code with you
 
 Please note that while there is a web preview, not all the features used in this app are compatible with it, so the app won't work from there.
 
-### Download and run the project with Expo CLI
 
 ## Usage Instructions
 
@@ -66,7 +65,7 @@ The bin screen loads one of two bins, depending on which button you pressed in t
 
 In this screen, you can edit the text inputs for bushels or capacity, select a type of grain to store from the dropdown list, or save your changes to local storage.
 
-add a screenshot of the bin here, just reuse one from above
+<img src="Resources/demo1.gif" alt="The first screenshot of a working bin for bin1" height="550" width="325" />
 
 #### Updating numeric values
 To update a numeric field, tap on it and enter a number.  Due to the regular expression, it may appear like you can enter non-numbers, but non-numeric characters will automatically be removed.  This conveniently also prevents negative numbers.
