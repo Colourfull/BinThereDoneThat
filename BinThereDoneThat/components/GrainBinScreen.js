@@ -5,6 +5,13 @@
  * CS855 Final Project
  * version: 1
  * last-modified: April-11-2022
+ *
+ *
+ *  The save functionality is based on the YouTube tutorial "React Native: AsyncStorage (using new AsyncStorage)" 
+ *  by Lirs Tech Tips.  https://www.youtube.com/watch?v=oXsTkvxHeYw
+ *
+ *  The fillIn animation function is based on the fadeIn tutorial given by Dr. T. in class.
+ *
  ****/
 import React, { useState, useRef, useEffect } from 'react';
 import {
