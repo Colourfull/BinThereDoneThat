@@ -93,7 +93,7 @@ Please note that while there is a web preview, not all the features used in this
 
 ### Clone and run with VSCode
 
-[A guide for cloning and running React Native Apps can be found here](https://javascript.plainenglish.io/how-to-clone-an-app-from-github-446541a0302d)
+[A guide for cloning and running React Native apps can be found here](https://javascript.plainenglish.io/how-to-clone-an-app-from-github-446541a0302d)
 
 1. You will need to make sure you have node.js and VSCode installed
 2. You will need to install the dependencies for the [libraries listed in Built With](#Built-With).  Details on how to do that are found on each library's page
