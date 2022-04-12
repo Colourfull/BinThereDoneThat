@@ -5,6 +5,9 @@
  * CS855 Final Project
  * version: 1
  * last-modified: April-11-2022
+ *
+ *  This code is based on the example given in class by Dr. T.
+ *
  ****/
 import { Vibration } from 'react-native';
 /**
