@@ -529,7 +529,7 @@ const styles = StyleSheet.create({
   editButton: {
     justifyContent: 'center',
     textAlign: 'center',
-    marginTop: '3%',
+    margin: '3%',
   },
   // the text within the edit button
   edit: {
