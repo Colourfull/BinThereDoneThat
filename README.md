@@ -12,6 +12,25 @@ Bin There Done That is a mobile app created for my CS855 final project.  It help
 
 ## Contents
 
+1. [Features](Features)
+
+1. [Manifest](Manifest)
+
+1. [Installation](Installation)
+
+1. [Usage Instructions](Usage-Instructions)
+
+1. [Known Bugs](Known-Bugs)
+
+1. [Support](Support)
+
+1. [Built With](Built-With)
+
+1. [License](License)
+
+1. [Project Status](Project-Status)
+
+1. [Credits and acknowledgements](Credits-and-acknowledgements)
 
 
 ## Features
@@ -140,7 +159,7 @@ https://reactnavigation.org/docs/stack-navigator/
 
 ## License
 
-This work is licensed under an MIT lisence.  See LICENSE.md for more information
+This work is licensed under an MIT license.  See LICENSE.md for more information
 
 ## Project Status
 This project will not likely be continued.  It was just meant to fulfill requirements for my course.
@@ -151,3 +170,5 @@ Josiah Mahar for providing me with the information I would need in the table and
 Trevor Tomesh, Lecturer at the University of Regina, for providing examples to reference when building this project
 
 EZGif video to gif maker for allowing me to easily convert screencaptures to gifs for the README
+
+Osamaqarem for the idea of how to create the files manifest.  https://github.com/osamaqarem/react-native-template
