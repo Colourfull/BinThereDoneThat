@@ -25,6 +25,27 @@ Bin There Done That is a mobile app created for my CS855 final project.  It help
  
 ## Manifest
 
+```
+root
+├── README.md - The instructions you are currently reading
+├── LICENSE.md - License information
+├── Resources
+    └── Images for the readme
+└── BinThereDoneThat
+    └── 
+    |   ├── assets - Images for the icon and loading screen
+    |   ├── App.js - The main program file
+    |   ├── app.json - App metadata
+    |   ├── babelconfig.js
+    |   ├── package-lock.json
+    |   ├── package.json - Dependencies list
+    |   └── components
+            └── features
+            |   ├── GrainBinScreen.js - The screen for displaying the two grain bins
+            |   ├── vibrate.js - a file containing the vibrate function
+                └── SaveCSV.js - an unfinished file for saving CSVs
+```
+
 ## Installation
 
 ### Install to your Android device
