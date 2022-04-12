@@ -12,11 +12,11 @@ Bin There Done That is a mobile app created for my CS855 final project.  It help
 
 ## Contents
 
-1. [Features](Features)
+1. [Features](# Features)
 
-1. [Manifest](Manifest)
+1. [Manifest](# Manifest)
 
-1. [Installation](Installation)
+1. [Installation](# Installation)
 
 1. [Usage Instructions](Usage-Instructions)
 
